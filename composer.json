@@ -1,0 +1,19 @@
+{
+    "name": "bt/cms",
+    "require": {
+        "phpmailer/phpmailer": "^6.6"
+    },
+
+    "autoload": {
+        "classmap": []
+
+    }
+
+
+    "authors": [
+        {
+            "name": "BT",
+            "email": "ebattx@yahoo.com"
+        }
+    ]
+}
